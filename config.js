@@ -2,7 +2,7 @@ module.exports = {
   prefix: "/",
   owner: "538316319829917701",
   token:
-    "NzYxMTgyMTI4MDQ5MjI1NzQ4.GxeEfY.21MYJe9Qj87xkzdO2C8b2qwbpWt2pcov5eW8Ik",
+    "",
   kayit: {
     durum: true, // true sistemi açar false kapatır
     sunucuId: "980908260376854551",
